@@ -2,7 +2,7 @@
   <mj-body background-color="#F4F4F4">
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
       <mj-column>
-        <mj-image align="center" padding="0 0" src=""https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Gasque-statistik.png?raw=true"" target="_blank"></mj-image>
+        <mj-image align="center" padding="0 0" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Arrang%C3%B6rer.jpg?raw=true" target="_blank"></mj-image>
         
           
        
@@ -22,7 +22,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Divider.png?raw=true" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
@@ -48,7 +48,7 @@
         
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Divider.png?raw=true" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="20px 0" text-align="center">
@@ -110,7 +110,7 @@ Anmälningslänken hittar ni här: </p>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Divider.png?raw=true" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
@@ -119,7 +119,7 @@ Anmälningslänken hittar ni här: </p>
           <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> {call-to-action punshline} </p>
           <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Vi hoppas att vi övertalat dig att gå med i nyhetsbrevet. <br> Vi hörs ✨ </p>
         </mj-text>
-        <mj-button href="https://u.dtek.se/newsletter@TrackLink" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> Gå med i vårt nyhetsbrev </mj-button>
+        <mj-button href="https://gasquen.se/" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> Gasquens hemsida </mj-button>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
           <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Du kan välja själv hur ofta du vill bli kontaktad. Vi har flertal evenemang i olika storlekar och frekvenser och är säker på att något passar just dig! </p>
           <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> För den som är sugen på att hjälpa oss i DKAK har vi även ett <i>Ambitious</i> alternativ där du får större inflytande i vilken riktning DKAK tar i framtiden. </p>
@@ -128,15 +128,14 @@ Anmälningslänken hittar ni här: </p>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Divider.png?raw=true" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center">
       <mj-column>
         <mj-image align="center" padding="10px 25px" src="https://wiki.dtek.se/images/c/ce/Dkak_minimal_dark_small.png" target="_blank" width="202px"></mj-image>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
-          {{ TrackView }}	
-          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> 2022 &copy; DKAK, Datateknologsektionen Chalmers Studentkår, Rännvägen 8, 412 58, Göteborg. </p>
+          
           <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 300; font-family:Helvetica,Arial,sans-serif">Don't want to receive these e-mails? <a href="{{ UnsubscribeURL }}">Unsubscribe</a>
 
  </p>
