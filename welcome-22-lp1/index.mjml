@@ -2,21 +2,16 @@
   <mj-body background-color="#F4F4F4">
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
       <mj-column>
-        <mj-image align="center" padding="0 0" src=""C:\Users\klara\Documents\GitHub\email-marketing\welcome-22-lp1\img\Frame 4.png"" target="_blank"></mj-image>
+        <mj-image align="center" padding="0 0" src=""https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Gasque-statistik.png?raw=true"" target="_blank"></mj-image>
         
           
-        </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
-      <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/v%C3%A4lkommen-highres.jpg" target="_blank" width="600px"></mj-image>
-      </mj-column>
-    </mj-section>
+       
         
         
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
           <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif">Hej arrangörer!</p>
           <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Vi är din kontakt på Datateknologsektionen!</p>
-          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Med detta mail vill vi tacka alla arrangörer för ett fantastiskt år fyllt med en massa Gasquer! Nedan kommer även lite rolig info och statistik från året</p>
+          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Med detta mail vill vi tacka alla arrangörer för ett fantastiskt år fyllt med en massa Gasquer! Detta hade inte varit möjligt utan er och ni ska vara stolta över ert arbete. Nedan kommer lite rolig info och statistik från året.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -27,22 +22,30 @@
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
-        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/v%C3%A4lkommen-highres.jpg" target="_blank" width="600px"></mj-image>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" text-align="center">
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" line-height="22px">
-          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23; font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Hur många Gasquer har det varit läsår 21/22?</p>
-          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> nånting bra här </p>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif"  line-height="22px">
+          <p style="font-size: 30px; margin: 40px 0 0 0; text-align: center; color:#151e23;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Gasquens statistik </p>
+          <p style="font-size: 20px; line-height: 30px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Ni har jobbat hårt i år och det ska ni vara stolta över. Nedan ser ni lite statistik på hur många Gasquer som arrangerats under läsåret, samt vad som väntar till mottagningen. </p>
         </mj-text>
-       align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> SIGN ME UP </mj-button>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
-          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Du kan välja själv hur ofta du vill bli kontaktad. Vi har flertal evenemang i olika storlekar och frekvenser och är säker på att något passar just dig! </p>
-          <p style="font-size: 10px; text-align: center; color:#151e23; font-size:10p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> För den som är sugen på att hjälpa oss i DKAK har vi även ett <i>Ambitious</i> alternativ där du får större inflytande i vilken riktning DKAK tar i framtiden. </p>
-        </mj-text>
+        
+         </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://github.com/gasquek/email-marketing/blob/main/welcome-22-lp1/img/Gasque-statistik.png?raw=true" target="_blank" width="600px"></mj-image>
       </mj-column>
     </mj-section>
+        
+       align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> SIGN ME UP </mj-button>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif">
+          <p style="font-size: 16px; line-height: 20px; text-align: center; color:#151e23; font-size:20p; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> nåt bra här </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+        
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
         <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/DKAK-Datateknologsektionen-Chalmers/marketing/main/img/divider.jpg" target="_blank" width="600px"></mj-image>
@@ -51,7 +54,7 @@
     <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding="20px 0" text-align="center">
       <mj-column>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
-          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Helvetica,Arial,sans-serif"> ALLMÄN INFO</p>
+          <p style="font-weight: 600; line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Helvetica,Arial,sans-serif"> Kommande evenemang</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -63,9 +66,9 @@
           <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
             
             <b>Höst-kickoff</b></p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Den 13e augusti kommer höst-kickoffen att ta plats! Kickoffen innehåller en utbildningsdel som sker tillsammans med vSO, SO och HA där går vi igenom saker som kan vara bra att hålla koll på inför sina arrangemang på Gasquen. När denna är över bjuder GasqueK in alla arrangörer för mat och gött häng. Med detta kommer en påminnelse att anmäla sig! Detta gäller även för hänget efteråt </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Den 13e augusti kommer höst-kickoffen att ta plats! Kickoffen innehåller en utbildningsdel som sker tillsammans med vSO, SO och HA där går vi igenom saker som kan vara bra att hålla koll på inför sina arrangemang på Gasquen. När denna är över bjuder GasqueK in alla arrangörer till dagsfest! Mer info finns längre ned i mailet. Med detta kommer då en påminnelse att anmäla er. Anmälan krävs även om man endast tänkt komma dit efter utbildningen. </p>
             
-            Anmälningslänken hittar ni nedan </p>
+Anmälningslänken hittar ni här: </p>
             
            </mj-text>
         <mj-button href="https://forms.gle/mHfnE7HUzb14fcKQ9" align="center" background-color="#5FA573" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding="10px 25px" text-decoration="none" text-transform="none" vertical-align="middle"> Anmälan till höst-kickoff </mj-button>
@@ -75,40 +78,33 @@
           
       </mj-column>
       <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="35px" padding="10px 25px">
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
           <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
             <b>Dagsfest</b>
           </p>
           
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif"> Efter kickoffen kommer en dagsfest att hållas ............ </p>
+          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif"> Efter kickoffen kommer det vara en grym dagsfest på JAs innergård! Här kommer det finnas gött käk, bar och självklart nice musik. Sen blir det såklart eftersläpp på Gasquen på kvällen som arrangeras av SexIT. Så anmäl er i formuläret så ses vi i dimman. 
+          </p>
+          </p>
+            
+(Plats kan komma att ändras, mer info kommer.) </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
         
-      </mj-column>
-      <mj-column>
-        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="65px" padding="10px 25px">
-          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
-            <b>Max Karlsson</b>
-          </p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Hej! Jag heter Max, men kallas för iMax på sektionen. Jag går mitt fjärde år på data, men har fortfarande ingen aning om vad jag vill bli när jag blir stor. När jag inte pluggar, jobbar eller super så grindar jag elo på cs. 🎮 </p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif"> Kungsbacka, D18 </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      ground-color="#ffffff" background-repeat="repeat" direction="rtl" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
       <mj-column>
        
       </mj-column>
       <mj-column>
         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
           <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Helvetica,Arial,sans-serif">
-            <b>Erik Carlsson</b>
+            <b>Mottagningen</b>
           </p>
-          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Hej! Jag heter Erik och har smeknamnet Åscha. Jag går fjärde året på data och har nyligen börjat min master. Jag är från en fin liten by vid namnet Vårgårda, en kvart från Alingsås, drygt en timma från Göteborg. Byn hade ca tio tusen invånare och där bodde jag hela mitt liv fram tills att jag började på Chalmers. 🏓 </p>
-          <p style="line-height: 16px; margin: 10px 0; color:#354552; font-size:14px; font-family:Helvetica,Arial,sans-serif"> Vårgårda, D18 </p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Helvetica,Arial,sans-serif; color:#354552"> Mottagningen närmar sig med stormsteg och den kommer vara fylld med hela 17 Gasquer! Det kommer bli sjukt kul för de nyantagna att få se Chalmers egna nattklub och vi hoppas att ni är lika taggade.</p>
+         
         </mj-text>
       </mj-column>
     </mj-section>
