@@ -3,13 +3,15 @@
 
 ![GitHub Content](https://user-images.githubusercontent.com/42417723/194566766-91d19f39-8071-46f3-80a8-6721aa32e2dc.jpg)
 
-
-
 ## Tech Stack
 
 - MJML
 - (HTML + CSS)
 - Python
+
+## Feedback on development
+If you have ideas or find bugs or would like to request a feature related to sending emails and developing emails. Please open an issue at: 
+https://github.com/gasquek/email-marketing/issues
 
 ## Developer guide
 
