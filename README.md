@@ -1,14 +1,18 @@
 # GasqueK Marketing Email Service (GME)
-This repository contains email templates and the necessary code to send HTML emails via SMTP to multiple receivers. 
+> This repository contains email templates and the necessary code to send HTML emails via SMTP to multiple receivers. 
+
+![GitHub Content](https://user-images.githubusercontent.com/42417723/194566766-91d19f39-8071-46f3-80a8-6721aa32e2dc.jpg)
+
+
+
 ## Tech Stack
-___
 
 - MJML
 - (HTML + CSS)
 - Python
 
 ## Developer guide
-___
+
 ### Getting started
 To develop emails you are required to have Python, Git, and MJML installed. If you do not have Python you can install it here: https://www.python.org and git from here: https://git-scm.com. MJML is available either as a VSCode plugin https://marketplace.visualstudio.com/items?itemName=attilabuti.vscode-mjml or available using `npm`; read more about MJML here: https://mjml.io/.
 
@@ -24,7 +28,7 @@ For information about the MJML language/syntax check out their website/documenta
 Compiling emails can be done using two methods depending on your developer style. Either in VSCode directly or using MJML in the terminal. Depending on your usage, we advise that you look up the respective documentation for the plugin or the full software.
 
 ## Usage Guide
-___
+
 ### Getting started
 To send emails you are required to have Python and Git installed. If you do not have Python you can install it here: https://www.python.org and git from here: https://git-scm.com. 
 
