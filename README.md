@@ -1,7 +1,8 @@
 # GasqueK Marketing Email Service (GME)
 This repository contains email templates and the necessary code to send HTML emails via SMTP to multiple receivers. 
 
-![GitHub Content](https://user-images.githubusercontent.com/42417723/194566766-91d19f39-8071-46f3-80a8-6721aa32e2dc.jpg)
+![Github GME Readme](https://user-images.githubusercontent.com/42417723/195139849-7b967356-bc75-4c2e-9672-ef2e5d7ec8e8.jpg)
+
 
 ## Tech Stack
 
