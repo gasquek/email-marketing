@@ -1,0 +1,274 @@
+<mjml>
+  
+  <mj-body background-color="#ffffff">
+    
+    <mj-section background-color="#02273d" padding-bottom="0px" padding-top="0px" text-align="center">
+     
+      <mj-column width=600px>
+        
+          <mj-image align="center" padding="0 0 0 0" src="Header.png"> 
+      
+      </mj-column>
+        
+        
+      <mj-column width="600px">
+         
+        <mj-text>
+          
+          <p style="font-size: 40px;  text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif"> Hej Arrangörer!</p>
+          
+          <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> 
+Nu lider läsårets första läsperiod mot sitt slut och vi blickar tillbaka på hela 28 (!) fantastiska arrangemang i Gasquen samtidigt som vi sörjer förlusten av 8 bord. </p>
+            
+            <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
+Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält, då ni hittills tappat upp 2141 glas fyllda med 40 cl lycka. Snart kommer förhoppningsvis en ny ölsort till tappen, och vi vill tacka för alla svar om vilken sort ni tycker att det ska vara<3
+</p>
+          
+        </mj-text>
+
+      </mj-column>
+    
+     
+      <mj-column width=500px> 
+           
+       <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="1664_2.png" target="_blank">
+           
+      </mj-column>
+        
+        
+      <mj-column width="600px">
+        
+       <mj-text>
+       
+        <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
+       En annan grej som vi fortsätter jobba med i Gasquen är pikéerna, så har man inte gjort det än får man gärna fylla i vår storleksundersökning: </p>
+       
+       </mj-text>
+        
+       <mj-button href="https://forms.gle/pB5xc1JVBdrkSYc9A" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 55px" padding-top="0px" padding-bottom="10px" text-decoration="none" text-transform="none" vertical-align="middle" > Piké-formulär
+               
+        </mj-button>
+        
+        <mj-divider border-color="#ffffff" padding-top="30px" border-width="2px">
+        </mj-divider>
+        
+        <mj-text>
+        <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Framåt ser vi fram emot november, där Gasquen är öppen 50 % av alla dagar. Dessutom börjar vi, likt många av er, med aspning. Intresserad? Läs mer här: </p>
+        
+        </mj-text>
+        
+        <mj-button href="https://gasquen.se/aspa-gasquek" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 55px" padding-top="0px" padding-bottom="40px" text-decoration="none" text-transform="none" vertical-align="middle"> Aspa GasqueK
+               
+        </mj-button>  
+        
+      </mj-column>
+      
+    </mj-section>
+      
+
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
+      
+      <mj-column width="600px">
+      
+        <mj-text>
+        
+          <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color:#0c0c0c;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Borden på Gasquen </p>
+          
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Som vi nämnde på senaste Gasquerådet har vi infört nya rutiner för sittningsborden. Dels kommer dessa inte att lagas längre, utan istället köper vi in nya när någon går sönder. Inte bara kommer detta att höja kvalitén på sittningsborden, utan de kommer förhoppningsvis gå sönder mycket mer sällan. </p>
+          
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> De nya rutinerna innebär att ni arrangörer ställer upp borden på dansgolvet efter att ni städat klart (se bild). Detta innebär att borden även kommer stå såhär när ni hämtar ut Gasquen, vilket borde underlätta preppen för sittning. </p>
+        
+        </mj-text>
+        
+      </mj-column>
+      
+      
+      <mj-column width=50%> 
+        
+       <mj-image align="center" padding-bottom="40px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="bord.jpg" target="_blank">
+      
+      </mj-column>
+   
+    </mj-section>
+     
+      
+    <mj-section background-color="#2e9172" background-repeat="repeat" text-align="center" padding-bottom="0px">
+      
+      <mj-column width="600px">
+        
+        <mj-text>
+          
+          <p style="font-size: 30px; margin: 0 0 0 0; text-align: center; color:#ffffff; font-size:30p; font-weight: 500; font-family:Helvetica,Arial,sans-serif"> Kassor i DJ-båset </p>
+          
+         <p style="font-size: 12px; line-height: 20px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Länge har det varit förvirrande att räkna nätverkskablar och förgreningsdosor. Därför har vi flyttat backarna med kassor till DJ-båset och satt upp krokar att hänga upp förgreningsdosor och nätverkskablar på. Dessutom finns det en lapp på kassan som ska till LoB med vad som ska finnas i denna, så att det inte råkar saknas grejer när ni får ut Gasquen. Där denna backen står finns det också en lapp om hur man hämtar kassan från LoB.  </p>
+          
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Kort och gott: Inga mer kassa/kabel/förgreningsdostrubbel.</p>
+          
+        </mj-text>
+        
+      </mj-column>
+      
+    </mj-section>     
+         
+      
+ 		<mj-section background-color="#2e9172" padding-top="0px">
+      
+      <mj-column>
+        
+        <mj-image padding-left="10px" padding-right="10px" src="kassa1.jpg">
+        
+        </mj-image>
+           
+      </mj-column>
+        
+      
+      <mj-column>
+        
+        <mj-image padding-left="10px"  padding-right="10px" src="kassa2.jpg">
+           
+      </mj-column>
+       
+      
+      <mj-column>
+        
+        <mj-image padding-left="10px"  padding-right="10px" src="kassa3.jpg">
+           
+      </mj-column>    
+        
+    </mj-section>
+    
+      
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" text-align="center">
+      
+      <mj-column>
+      
+        <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" padding-bottom="0px" padding-top="10px">
+        
+          <p style="font-size: 30px; line-height: 20px; color:#000000; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Kylarna </p>
+          
+           <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Efter ett par arrangemang har vi testat att stänga av kylarna i baren för att spara in på elförbrukningen i Gasquen. Inga problem har uppstått, och eftersom samtliga fyra kylar drar 1 kWh (översatt: jävligt mycket kräm) har vi infört som rutin att kylarna stängs av så fort man stänger baren.</p>
+          
+          </mj-text>
+        
+        <mj-divider border-color="#02273d" padding-top="30px" padding-bottom="20px" border-width="2px">
+        </mj-divider>
+        
+        <mj-text align="center"> 
+          
+         <p style="font-size: 30px; line-height: 20px; color:#000000; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Chalmerist+1 </p>
+          
+          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif">Som vi nämnde på Gasquerådet kommer det framöver att vara Chalmerist +1 på Gasquen. Undrar man över vad detta innebär kan man hitta definitionen i internarbetsordningen, bilaga D. 
+Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta undersöka, i enighet med Gasquerådet innan sommaren. Därför får ni gärna fylla i följande formulär: </p>
+          
+        </mj-text>
+        
+        <mj-button href="https://forms.gle/WEFw7WNXC8HD467e8" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding-bottom="40px" padding-top="10px" text-decoration="none" text-transform="none" vertical-align="middle"> Chalmerist+1 
+        
+        </mj-button>
+        
+      </mj-column>
+      
+    </mj-section>
+        
+
+    <mj-section background-color="#346683" background-repeat="repeat" padding-bottom="15px" padding-top="0px"text-align="center">
+
+      <mj-column width="600px">
+
+        <mj-text align="center" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="15px" padding="10px 25px">
+        
+         <p style="font-size: 30px; line-height: 20px; color:#ffffff; font-family:Helvetica,Arial,sans-serif"> Jourtelefon </p>
+         
+     
+          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Ett förslag som vi fått in från ett par arrangörer är att införskaffa en telefon till garderoben, vars nummer sitter uppe på toaletterna. Syftet är att använda detta som en sorts trygghetsjour som gäster kan ringa ifall de känner sig otrygga men inte vill gå fram till någon arbetande. Till en utvärderingsperiod har vi fått låna FnollK:s jourtelefon och om detta är något som vi tillsammans anser är en bra investering så kommer vi införskaffa en egen till Gasquen. </p>
+            
+          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Om ni har fler förslag som ni sitter och funderar på så är det bara att skicka in dem till oss! Vi uppskattar dem enormt mycket, och tillsammans gör vi Gasquen till en bättre, roligare och tryggare nattklubb! </p>
+            
+        </mj-text>
+        
+       </mj-column>
+      
+      </mj-section>
+      
+      
+      <mj-section padding-bottom="0px">
+      
+        <mj-column>
+        
+         <mj-text align="center" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" >
+        
+         <p style="font-size: 25px; line-height: 30px; color:#000000; font-family:Helvetica,Arial,sans-serif"> Tidigare bokning av mottagningsgasquer </p>
+   
+          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Efter att ha pratat med MK har vi beslutat att försöka boka mottagningsgasquer tidigare på året, redan i början av mars (alltså samtidigt som CM-bokningarna sker)! Både vi och MK tror att detta kommer göra planeringen av mottagningen lättare för både er och era respektive mottagningskommittéer. </p>
+            
+          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif">Om ni har fler förslag som ni sitter och funderar på så är det bara att skicka in dem till oss! Vi uppskattar dem enormt mycket, och tillsammans gör vi Gasquen till en bättre, roligare och tryggare nattklubb! </p>
+            
+         </mj-text>
+          
+        <mj-divider border-color="#02273d" padding-top="30px" padding-bottom="20px" border-width="2px">
+        </mj-divider>
+          
+        </mj-column>
+        
+       </mj-section> 
+      
+ 
+       <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center">
+      
+      <mj-column>
+      
+        <mj-text align="center" line-height="30px" padding-bottom="0px" padding-top="15px"> 
+         
+          <p style="margin: 0px 0px; color:#000000; font-size:20px; font-family:Helvetica,Arial,sans-serif"> <b> Saker som händer </b></p>
+          
+          </mj-text>
+         
+        <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
+          
+           <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Gasqueråd - 23 November </p>
+        </mj-text>
+        
+         <mj-divider border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+          
+          <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
+            
+          <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Aspning - start 31 November </p>
+            
+            </mj-text>
+        
+        <mj-divider border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+           
+          <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
+            
+          <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Jul - Coming soon </p>
+          
+          <p style="line-height: 16px; margin: 10px 0;font-size:12px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Vill du vara med och påverka vilken julmusik som spelas på Gasquen under av/ut? Lägg till era favoritlåtar i denna spellista: </p>
+                   
+        </mj-text>
+        
+       
+        <mj-button href="https://open.spotify.com/playlist/2k7NZ1cLTzmm05qrOJjctr?si=a90825c4d555419d&pt=a221ff88515f585812dd1d4160f94164" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding-bottom="40px" padding-top="0px" text-decoration="none" text-transform="none" vertical-align="middle"> Merry Christmas 
+           
+        </mj-button>
+        
+      </mj-column>
+         
+    </mj-section>
+
+      
+    <mj-section background-color="#02273d" background-repeat="repeat" padding="20px 0" text-align="center">
+      
+      <mj-column>
+        
+        <mj-image align="center" padding="10px 25px" src="https://raw.githubusercontent.com/klaranolemo/Email-mall/main/mail%20gk%20logga.png?token=GHSAT0AAAAAABZI2VSF72K3RMCHGDWAXUYYYZUN2EQ" target="_blank" width="400px"/>
+          
+           
+        
+        
+      </mj-column>
+      
+    </mj-section>
+        
+  </mj-body>
+      
+</mjml>
