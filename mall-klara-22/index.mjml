@@ -232,7 +232,7 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
           
           <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
             
-          <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Aspning - start 31 November </p>
+          <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Aspning - start 1 November </p>
             
             </mj-text>
         
@@ -245,11 +245,18 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
           <p style="line-height: 16px; margin: 10px 0;font-size:12px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Vill du vara med och påverka vilken julmusik som spelas på Gasquen under av/ut? Lägg till era favoritlåtar i denna spellista: </p>
                    
         </mj-text>
-        
-       
+      
         <mj-button href="https://open.spotify.com/playlist/2k7NZ1cLTzmm05qrOJjctr?si=a90825c4d555419d&pt=a221ff88515f585812dd1d4160f94164" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 75px" padding-bottom="40px" padding-top="0px" text-decoration="none" text-transform="none" vertical-align="middle"> Merry Christmas 
            
         </mj-button>
+        
+           <mj-divider align="center" border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+           
+          <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
+            
+          <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Kick-off - 28 januari </p>
+            
+        </mj-text>
         
       </mj-column>
          
@@ -261,9 +268,6 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
       <mj-column>
         
         <mj-image align="center" padding="10px 25px" src="https://raw.githubusercontent.com/klaranolemo/Email-mall/main/mail%20gk%20logga.png?token=GHSAT0AAAAAABZI2VSF72K3RMCHGDWAXUYYYZUN2EQ" target="_blank" width="400px"/>
-          
-           
-        
         
       </mj-column>
       
