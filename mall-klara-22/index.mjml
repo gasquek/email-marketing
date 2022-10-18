@@ -31,7 +31,7 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
      
       <mj-column width=500px> 
            
-       <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="1664_2.png" target="_blank">
+       <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" src="https://raw.githubusercontent.com/gasquek/email-marketing/main/mall-klara-22/1664_2.png" target="_blank">
            
       </mj-column>
         
@@ -85,7 +85,7 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
       
       <mj-column width=50%> 
         
-       <mj-image align="center" padding-bottom="40px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="bord.jpg" target="_blank">
+       <mj-image align="center" padding-bottom="40px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="https://raw.githubusercontent.com/gasquek/email-marketing/main/mall-klara-22/bord.jpg" target="_blank">
       
       </mj-column>
    
@@ -115,7 +115,7 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
       
       <mj-column>
         
-        <mj-image padding-left="10px" padding-right="10px" src="kassa1.jpg">
+        <mj-image padding-left="10px" padding-right="10px" src="https://raw.githubusercontent.com/gasquek/email-marketing/main/mall-klara-22/kassa1.jpg">
         
         </mj-image>
            
@@ -124,14 +124,14 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
       
       <mj-column>
         
-        <mj-image padding-left="10px"  padding-right="10px" src="kassa2.jpg">
+        <mj-image padding-left="10px"  padding-right="10px" src="https://raw.githubusercontent.com/gasquek/email-marketing/main/mall-klara-22/kassa2.jpg">
            
       </mj-column>
        
       
       <mj-column>
         
-        <mj-image padding-left="10px"  padding-right="10px" src="kassa3.jpg">
+        <mj-image padding-left="10px"  padding-right="10px" src="https://raw.githubusercontent.com/gasquek/email-marketing/main/mall-klara-22/kassa3.jpg">
            
       </mj-column>    
         
@@ -197,7 +197,7 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
         
          <mj-text align="center" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" >
         
-         <p style="font-size: 25px; line-height: 30px; color:#000000; font-family:Helvetica,Arial,sans-serif"> Tidigare bokning av mottagningsgasquer </p>
+         <p style="font-size: 24px; line-height: 30px; color:#000000; font-family:Helvetica,Arial,sans-serif"> Tidigare bokning av mottagningsgasquer </p>
    
           <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Efter att ha pratat med MK har vi beslutat att försöka boka mottagningsgasquer tidigare på året, redan i början av mars (alltså samtidigt som CM-bokningarna sker)! Både vi och MK tror att detta kommer göra planeringen av mottagningen lättare för både er och era respektive mottagningskommittéer. </p>
             
@@ -228,7 +228,7 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
            <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Gasqueråd - 23 November </p>
         </mj-text>
         
-         <mj-divider border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+         <mj-divider align="center" border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
           
           <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
             
@@ -236,7 +236,7 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
             
             </mj-text>
         
-        <mj-divider border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+        <mj-divider align="center" border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
            
           <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
             
