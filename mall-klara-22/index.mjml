@@ -18,11 +18,7 @@
           <p style="font-size: 40px;  text-align: center; color:#ffffff; font-weight: 500; font-family:Helvetica,Arial,sans-serif"> Hej Arrangörer!</p>
           
           <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> 
-Nu har årets andra läsperiod dragit igång och vi blickar tillbaka på hela 28 (!) fantastiska arrangemang i Gasquen under LP1 samtidigt som vi sörjer förlusten av 8 bord. </p>
-            
-            <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält, då ni hittills tappat upp 2141 glas fyllda med 40 cl lycka. Nu har det även kommit en ny ölsort till tappen och vi vill tacka för alla svar om vilken sort ni tyckt att det ska vara<3
-</p>
+Nu är vi halvvägs genom andra läsperioden och vi blickar tillbaka på hela 28 (!) fantastiska arrangemang i Gasquen under LP1 samtidigt som vi sörjer förlusten av 8 bord. </p>
           
         </mj-text>
 
@@ -38,22 +34,18 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
         
       <mj-column width="600px">
         
-       <mj-text>
+        <mj-text>
+          <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
+Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält. Nu har det även kommit en ny ölsort till tappen och vi vill tacka för alla svar om vilken sort ni tyckt att det ska vara. Ännu ett nytt tillägg till tappen är att man nu kommer kunna servera ölkannor. Instruktioner kommer att finnas bakom baren och det  i kassan. 
+</p>
+        </mj-text>
        
-        <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
-       En annan grej som vi fortsätter jobba med i Gasquen är pikéerna, så har man inte gjort det än får man gärna fylla i vår storleksundersökning: </p>
-       
-       </mj-text>
         
-       <mj-button href="https://forms.gle/pB5xc1JVBdrkSYc9A" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 55px" padding-top="0px" padding-bottom="10px" text-decoration="none" text-transform="none" vertical-align="middle" > Piké-formulär
-               
-        </mj-button>
-        
-        <mj-divider border-color="#ffffff" padding-top="30px" border-width="2px">
+        <mj-divider border-color="#ffffff" padding-top="10px" border-width="2px">
         </mj-divider>
         
         <mj-text>
-        <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Framåt ser vi fram emot november, där Gasquen är öppen 50 % av alla dagar. Dessutom börjar vi, likt många av er, med aspning. Intresserad? Läs mer här: </p>
+        <p style="font-size: 12px; line-height: 25px; text-align: center; color:#ffffff; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Nu under november har Gasquen varit öppen 50 % av alla dagar och ni har jobbat sjukt hårt. Dessutom börjar vi, likt många av er, med aspning. Intresserad? Läs mer här: </p>
         
         </mj-text>
         
@@ -74,7 +66,7 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
         
           <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color:#0c0c0c;  font-size:30p; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Borden på Gasquen </p>
           
-          <p style="font-size: 12px; line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Som vi nämnde på senaste Gasquerådet har vi infört nya rutiner för sittningsborden. Dels kommer dessa inte att lagas längre, utan istället köper vi in nya när någon går sönder. Inte bara kommer detta att höja kvalitén på sittningsborden, utan de kommer förhoppningsvis gå sönder mycket mer sällan. </p>
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> Som vi nämnde på ett tidigare Gasqueråd har vi infört nya rutiner för sittningsborden. Dels kommer dessa inte att lagas längre, utan istället köper vi in nya när någon går sönder. Inte bara kommer detta att höja kvalitén på sittningsborden, utan de kommer förhoppningsvis gå sönder mycket mer sällan. </p>
           
           <p style="font-size: 12px; line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif"> De nya rutinerna innebär att ni arrangörer ställer upp borden på dansgolvet efter att ni städat klart (se bild). Detta innebär att borden även kommer stå såhär när ni hämtar ut Gasquen, vilket borde underlätta preppen för sittning. </p>
         
@@ -150,15 +142,17 @@ Att Gasquen har fått en ny tapp verkar ni och era gäster ha utnyttjat rejält,
           
           </mj-text>
         
-        <mj-divider border-color="#02273d" padding-top="30px" padding-bottom="20px" border-width="2px">
-        </mj-divider>
+        <mj-divider border-color="#02273d" padding-top="30px" padding-bottom="20px" border-width="2px"/>
+        
         
         <mj-text align="center"> 
           
          <p style="font-size: 30px; line-height: 20px; color:#000000; font-weight: 600; font-family:Helvetica,Arial,sans-serif"> Chalmerist+1 </p>
           
-          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif">Som vi nämnde på Gasquerådet kommer det framöver att vara Chalmerist +1 på Gasquen. Undrar man över vad detta innebär kan man hitta definitionen i internarbetsordningen, bilaga D. 
-Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta undersöka, i enighet med Gasquerådet innan sommaren. Därför får ni gärna fylla i följande formulär: </p>
+          <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif">Som vi nämnde på Gasquerådet kommer det framöver att fortsätta vara Chalmerist +1 på Gasquen. Undrar man över vad detta innebär kan man hitta definitionen i internarbetsordningen, bilaga D. För undantag av denna regel så gäller det att både GasqueK och arrangörerna är överens om detta på förhand.
+          </p>
+            <p style="font-size: 12px;  line-height: 20px; text-align: center; color:#000000; font-weight: 300; font-family:Helvetica,Arial,sans-serif">
+Dock är detta något som vi vill fortsätta undersöka i enighet med Gasquerådet innan sommaren. Därför får ni gärna fylla i följande formulär: </p>
           
         </mj-text>
         
@@ -222,13 +216,7 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
           <p style="margin: 0px 0px; color:#000000; font-size:20px; font-family:Helvetica,Arial,sans-serif"> <b> Saker som händer </b></p>
           
           </mj-text>
-         
-        <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
-          
-           <p style=" margin: 10px 0;font-size:14px;font-family:Helvetica,Arial,sans-serif; color:#0c0c0c"> Gasqueråd - 23 November </p>
-        </mj-text>
-        
-         <mj-divider align="center" border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+       
           
            
           <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
@@ -243,7 +231,7 @@ Som vi nämnde på Gasquerådet är dock detta något som vi vill fortsätta und
            
         </mj-button>
         
-           <mj-divider align="center" border-color="#02273d" border-width="0.1px" width="300px" padding-top="0px" padding-bottom="10px"/>
+           <mj-divider align="center" border-color="#02273d" border-width="1px" width="300px" padding-top="0px" padding-bottom="10px"/>
            
           <mj-text align="center" color="#0c0c0c" font-family="Arial, sans-serif" font-size="13px" line-height="30px" padding-bottom="10px" padding-top="0px" padding="10px 25px">
             
