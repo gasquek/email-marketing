@@ -1,0 +1,89 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-section background-color="#104961" padding-bottom="0px" padding-top="0px" text-align="center">
+      <mj-column width="600px">
+        <mj-image align="center" padding="0" src="https://raw.githubusercontent.com/klaranolemo/olbruket_nyhetsbrev/main/Frame%2060.png?token=GHSAT0AAAAAACJ2Q42VODZK3HNM6HONC3EEZKFNQTQ"></mj-image>
+      </mj-column>
+      <mj-column width="600px">
+        <mj-text>
+          <p style="font-size: 40px; text-align: center; color: #ffffff; font-weight: 500; font-family: Helvetica, Arial, sans-serif;">Hej Ölbrukare!</p>
+          <p style="font-size: 12px; line-height: 25px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">
+            LP2 har kört igång och vi i den nya styrelsen har börjat bli lite varma i kläderna. Vi är otroligt taggade inför detta år och hoppas att det blir en massa kul med god öl! Vi som sitter i den nya styrelsen är:
+          </p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Ordförande - Sofia Bosson</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Vice Ordförande - Hannes Winnerhed</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Kassör - Rasmus Andersson</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Sekreterare - Fredric Säwe</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Eventansvarig - Filip Lindset</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Bryggmästare - Nils Axeland</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Kommunikatör - Klara Nolemo</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Designer - Sofie Aidemark</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="500px">
+        <mj-image align="center" padding="0" src="https://raw.githubusercontent.com/klaranolemo/olbruket_nyhetsbrev/main/%C3%96lbruket%20-%20Nyhetbrev%201/Gruppbild.jpg?token=GHSAT0AAAAAACJ2Q42VZ666NB7NLVRW7JYKZKFE5NQ" target="_blank">
+      </mj-column>
+      <mj-column width="600px">
+        <mj-text>
+          <p style="font-size: 12px; line-height: 25px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif;">Vi tänkte passa på att meddela lite vad vi har hittat på än så länge under LP1. Den klassiska pubrundetävlingen drog igång och vinnarna är korade.</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Zaloonen - Bästa pub och Bästa stämning</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Hubben 2.2 - Bästa tema</p>
+          <p style="font-size: 12px; line-height: 10px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Focus - Bästa mat och dryck</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" text-align="center">
+      <mj-column width="600px">
+        <mj-text>
+          <p style="font-size: 30px; text-align: center; color: #000000; font-weight: 500; font-family: Helvetica, Arial, sans-serif">Kommande evenemang</p>
+          
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color: #000000; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Den 16 november kommer Ölbruket tillsammans med Jesper Hermenius att hålla i en bryggkurs där man kan få lära sig mer om öl och hur det bryggs. Vill du delta så är det bara att fylla i formuläret. Mer information om tid och plats kommer på mail närmare inpå.
+</p>
+           </mj-text>
+        <mj-button href="https://forms.gle/6PcnXrPSA5CcCQdy6" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 30px" padding-top="0px" padding-bottom="10px" text-decoration="none" text-transform="none" vertical-align="middle"> Anmälan - Bryggkurs
+               
+        </mj-button>
+        <mj-text>
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color: #000000; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Den 2 december slår det av stapeln med anti-årsmöte!! Detta innebär en dunder-skoj sittning med egengjort öl bland annat! :D Sittningen kommer ta plats i Kalle glader kl. 17:31 och temat för kalaset är maskerad! Så damma av er kavaj och klänning och ta fram er finaste mask så ses vi där! OBS: Det är begränsat med platser, så skynda med att paxa din plats.</p>
+        </mj-text>
+        
+        <mj-button    href="https://forms.gle/6MKTBEG5Bzhni5Fn8" align="center" background-color="#55AA77" border-radius="3px" color="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 30px" padding-top="0px" padding-bottom="30px" text-decoration="none" text-transform="none" vertical-align="middle"> Anmälan - Anti-årsmöte
+        </mj-button>
+   
+        <mj-divider border-color="#000000"></mj-divider>
+        <mj-text>
+          <p style="font-size: 30px; text-align: center; color: #000000; font-weight: 500; font-family: Helvetica, Arial, sans-serif">Smått och gott</p>
+          <p style="font-size: 30px; line-height: 30px; margin: 20px 0 0 0; text-align: center; color: #0c0c0c; font-weight: 600; font-family: Helvetica, Arial, sans-serif"></p>
+         
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color: #000000; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Sen för dem som tycker det är kul att brygga egen öl kan det vara kul att veta att om man är medlem i Ölbruket och säger det när man handlar på Ölkompaniet får man rabatt på sitt köp. Så passa på. Se bara till att nämna att ni är från ölbruket i kassan🙂</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#8f1736" background-repeat="repeat" text-align="center" padding-top="0px" padding-bottom="0px">
+      <mj-column width="600px">
+        <mj-text>
+          <p style="font-size: 40px; text-align: center; color: #ffffff; font-weight: 500; font-family: Helvetica, Arial, sans-serif">Öltips!</p>
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color: #ffffff; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Vi vill avsluta detta mejl med att rekommendera två trevliga öler för att ljusa upp de mörka tiderna som börjar närma sig.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" text-align="center" padding-bottom="20px">
+      <mj-column width="600px">
+        <mj-text>
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color: #000000; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Den första är för lite finsmakare, nämligen Eternal Slumber av The Veil Brewing Co från USA. Det är en 13% Stout lagrad i äppelbrandy, lönnbourbon och buffalo trace-bourbonfat med smak av banan, choklad och körsbär. På 413 kr för 500ml är det något man kan unna sig efter tentorna.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%">
+        <mj-image width="450px" align="center" padding-bottom="40px" src="https://raw.githubusercontent.com/klaranolemo/olbruket_nyhetsbrev/main/eternal_slumber.jpeg?token=GHSAT0AAAAAACJ2Q42V6YGR65OTVWJUKM7UZKFORBQ" target="_blank">
+      </mj-column>
+      <mj-divider border-color="#999999"></mj-divider>
+      <mj-column width="600px">
+                <mj-text>
+          <p style="font-size: 12px; line-height: 20px; text-align: center; color: #000000; font-weight: 300; font-family: Helvetica, Arial, sans-serif">Den andra ölen är lite billigare, Cuvée des Jacobins av Brouwerij Bockor från Belgien. En 5,5% flamlänsk röd och brunöl. Syrlig med smak av fat, torkad frukt, körsbär, nötter, farinsocker och kryddor. Denna öl ligger istället på 40kr för 330ml. .</p>
+        </mj-text>
+        <mj-image width="450px" align="center" padding-bottom="40px" src="https://raw.githubusercontent.com/klaranolemo/olbruket_nyhetsbrev/main/eternal_slumber.jpeg?token=GHSAT0AAAAAACJ2Q42V6YGR65OTVWJUKM7UZKFORBQ" target="_blank">
+        <mj-image align="center" padding="0" src="https://raw.githubusercontent.com/klaranolemo/olbruket_nyhetsbrev/main/%C3%96lbruket%20-%20Nyhetbrev%201/Footer.png?token=GHSAT0AAAAAACJ2Q42V7J7NDGJFBW7ENZD2ZKFFBHQ"></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
